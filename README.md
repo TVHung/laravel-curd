@@ -1,1 +1,1 @@
-# laravel-reactjs-curd
+# laravel-curd
